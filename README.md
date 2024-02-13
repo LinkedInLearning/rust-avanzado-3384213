@@ -1,13 +1,12 @@
 # Rust Avanzado
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Rust Avanzado`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-
-DESCRIPCIÓN DEL CURSO
+Amplía y expande tus conocimientos de Rust con este curso que te permitirá adquirir una visión mucho más avanzada de las posibilidades de este lenguaje de programación multiparadigma desarrollado por Mozilla. Al terminar, sabrás manejarte con smart pointers, iteradores, closures, diferentes tipos de tests, concurrencia, async/await, gestión de errores personalizados y otros interesantes temas. No te lo pienses más y continua progresando en tus capacidades de desarrollo con Rust. ¡Vamos!
 
 ## Instrucciones
 
