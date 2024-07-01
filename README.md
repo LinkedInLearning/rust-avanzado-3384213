@@ -31,7 +31,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/eliezer-lopez).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/rust-avanzado-24014033
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4D0DAQE5xsesp_zSmA/learning-public-crop_675_1200/0/1719390533881?e=2147483647&v=beta&t=2bEVgHl3lm7njxG0eZU1ZW1IhfNVcjX75cmDh6ZQfcw
 
 [1]: # (End of ES-Instruction ###############################################################################################)
