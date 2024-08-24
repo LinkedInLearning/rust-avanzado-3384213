@@ -6,21 +6,19 @@ Este es el repositorio del curso de LinkedIn Learning `Rust Avanzado`. El curso 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-Amplía y expande tus conocimientos de Rust con este curso que te permitirá adquirir una visión mucho más avanzada de las posibilidades de este lenguaje de programación multiparadigma desarrollado por Mozilla. Al terminar, sabrás manejarte con smart pointers, iteradores, closures, diferentes tipos de tests, concurrencia, async/await, gestión de errores personalizados y otros interesantes temas. No te lo pienses más y continua progresando en tus capacidades de desarrollo con Rust. ¡Vamos!
+Adquiere un dominio avanzado del lenguaje Rust y lleva tus habilidades de programación al siguiente nivel. Explora en profundidad el sistema de referencias, préstamos y lifetimes en Rust, y aprende a modificar datos en contenedores de manera eficiente. Crea y gestiona proyectos con Cargo, domina el paradigma de orientación a objetos y modela datos complejos con structs. También, descubre cómo trabajar con traits y módulos, y maneja errores de manera efectiva. Utiliza herramientas y técnicas avanzadas de desarrollo para optimizar tu código y depurar errores con precisión.
 
 ## Instrucciones
 
-Este repositorio tiene ramas (branches) para cada uno de los vídeos del curso. Puedes usar el menú emergente de la rama en GitHub para cambiar a una rama específica y echar un vistazo al curso en esa etapa, o puedes añadir `/tree/nombre_de_la_rama` a la URL para ir a la rama a la que quieres acceder.
+En este repositorio encontrarás un listado de carpetas. Cada carpeta corresponde con un capítulo dentro del curso, y en su interior encontrarás los archivos fuente de las diferentes lecciones: uno que contiene el código utilizado en el video en su estado inicial (a), y otro que contiene el código en su estado final (b). Un archivo fuente sin letra en su título significa que el archivo no sufre modificación alguna. Cuando se trabaja a nivel de proyecto, los archivos fuentes se localizan en carpetas siguiendo la misma nomenclatura.
 
-## Ramas
-
-Las ramas están estructuradas para corresponder a los vídeos del curso. La convención de nomenclatura es Capítulo#_Vídeo#. Por ejemplo, la rama denominada `02_03` corresponde al segundo capítulo y al tercer vídeo de ese capítulo. Algunas ramas tendrán un estado inicial y otro final. Están marcadas con las letras i («inicio») y f («fin»). La branch i tiene el mismo código que al principio del vídeo. La branch f tiene el mismo código que al final del vídeo. La rama master tiene el estado final del código que aparece en el curso.
+También debes saber que cada lección incluye una función principal main, que te permitirá trabajar con cada ejercicio en su estado inicial (a) y en su estado final (b) de manera independiente. A la hora de compilar, asegúrate de hacer uso de una única función main para evitar conflictos en el proceso de compilación.
 
 ### Docente
 
 **Eliezer López**
 
-Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/eliezer-lopez).
+Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/eliezer-lopez) y a mi libro [«Curso de Programación con Rust»](https://www.amazon.es/Curso-programación-Rust-MANUALES-IMPRESCINDIBLES/dp/8441549095) editado por ANAYA Multimedia. 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/rust-avanzado-24014033
